@@ -1,12 +1,12 @@
-# Event handling in Javascript
+# Event handling in JavaScript
 
 ## Story - GDPR Compliance
 
-> EU laws require every website to be transparent about their use of cookies. GDPR (General Data Protection Regulation) states that a website owner is required to get concent from the users to use cookies/tracking codes on their website.
+> EU laws require every website to be transparent about their use of cookies. GDPR (General Data Protection Regulation) states that a website owner is required to get consent from the users to use cookies/tracking codes on their website.
 
-> The coffee break took a little longer than expected, so your website builder collegue already threw some guidelines together. You only have to provide business logic for your tasks
+> The coffee break took a little longer than expected, so your site builder colleague already threw some guidelines together. You only have to provide business logic for your tasks
 
-**Your job as a developer is to make your company's website GDPR compliant.**
+**Your job as a developer is to make your company's website GDPR-compliant.**
 
 
 ## What you are going learn
@@ -47,7 +47,7 @@ You'll have to:
 
 ### Legal update!
 
->The legal team requires some modifications on the settings modal. They'd like you to wire up the buttons your sitebuilder colleague added. They no longer need you to track the checkboxes directly...
+>The legal team requires some modifications on the settings modal. They'd like you to wire up the buttons your site builder colleague added. They no longer need you to track the checkboxes directly...
 
 1) `git checkout branch task-2-legal-update`
 
@@ -65,7 +65,7 @@ You'll have to:
 
 ### Cookie banner
 
->Weeks passed and you almost forgot about the cookie policy. The legal team now wants you to wire up the cookie banner with the settings modal.
+>Weeks passed, and you almost forgot about the cookie policy. The legal team now wants you to wire up the cookie banner with the settings modal.
 
 1) `git checkout branch task-4-cookie-banner`
 
