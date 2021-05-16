@@ -1,6 +1,6 @@
-# GDPR Compliance
+# Event handling in Javascript
 
-## Story
+## Story - GDPR Compliance
 
 > EU laws require every website to be transparent about their use of cookies. GDPR (General Data Protection Regulation) states that a website owner is required to get concent from the users to use cookies/tracking codes on their website.
 
