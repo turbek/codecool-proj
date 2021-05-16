@@ -1,0 +1,31 @@
+/* There's no need to change this file, this is intended for styleish purposes only */
+
+body {
+    background: #d2d2d2fa;
+    margin: 0;
+}
+
+#cookie-settings {
+    background: white;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    border-radius: 5px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+#buttons > button {
+    margin-top: 16px;
+    padding: 10px;
+}
+
+button:hover {
+    cursor: pointer;
+}
